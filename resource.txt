@@ -10,3 +10,11 @@ https://www.jiqizhixin.com/articles/2018-10-26-12?from=synced&keyword=%E7%9F%A5%
 
 最新知识图谱论文清单，就算看不懂也会忍不住收藏
 https://www.jiqizhixin.com/articles/2018-11-15-21?from=synced&keyword=%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1
+
+
+Relational Retrieval Using a Combination of Path-Constrained Random Walks
+Scientific literature with rich metadata can be represented as a labeled directed graph
+科学文献中的元数据可以用一个有有标签的有向图表示。
+This graph representation enables a number of scientific tasks such as ad hoc retrieval or 
+named entity recognition (NER) to be formulated as typed proximity queries in the graph
+这种图的表示使得一系列的科学任务，比如：

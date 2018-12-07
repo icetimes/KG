@@ -1,5 +1,12 @@
-����һ��ͨ���׶���֪ʶͼ�׼�����Ӧ��ָ��
+这是一份通俗易懂的知识图谱技术与应用指南
 https://www.jiqizhixin.com/articles/2018-06-20-4
 
-һ�����֪ʶͼ�׹ؼ�������Ӧ�� | �����αʼ�
+一文详解知识图谱关键技术与应用 | 公开课笔记
 https://www.jianshu.com/p/3bafc7f9d54c
+
+ISWC 2018概览：知识图谱与机器学习
+https://www.jiqizhixin.com/articles/2018-10-26-12?from=synced&keyword=%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1
+
+
+最新知识图谱论文清单，就算看不懂也会忍不住收藏
+https://www.jiqizhixin.com/articles/2018-11-15-21?from=synced&keyword=%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1

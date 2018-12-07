@@ -14,7 +14,11 @@ https://www.jiqizhixin.com/articles/2018-11-15-21?from=synced&keyword=%E7%9F%A5%
 
 Relational Retrieval Using a Combination of Path-Constrained Random Walks
 Scientific literature with rich metadata can be represented as a labeled directed graph
-科学文献中的元数据可以用一个有有标签的有向图表示。
+科学文献中的元数据可以用一个有标签的有向图表示。
 This graph representation enables a number of scientific tasks such as ad hoc retrieval or 
 named entity recognition (NER) to be formulated as typed proximity queries in the graph
-这种图的表示使得一系列的科学任务，比如：
+这种图的表示使得一系列的科学任务，比如：ad-hoc检索或命名实体识别可以表示为图中的典型邻近查询。
+
+One popular proximity measure is called Random Walk with Restart (RWR), and much work has been done on the supervised learning of RWR mea- sures by associating each edge label with a parameter.
+一个最有名的临近性度量方法就是重启的随机游走（ Random Walk with Restart (RWR)），更多的工作则集中通过每个边缘标签与参数关联进行RWWR监督学习。
+
